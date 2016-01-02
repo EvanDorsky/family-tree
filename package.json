@@ -1,0 +1,23 @@
+{
+  "name": "family-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvanDorsky/family-tree.git"
+  },
+  "author": "Evan Dorsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvanDorsky/family-tree/issues"
+  },
+  "homepage": "https://github.com/EvanDorsky/family-tree#readme",
+  "dependencies": {
+    "browserify": "^12.0.1",
+    "d3": "^3.5.12"
+  }
+}
